@@ -6,7 +6,7 @@
 <html lang="en">
 	<head>
 		<meta charset="UTF-8">
-		<title>User Registration system using PHP and MySQL</title>
+		<title>User Login</title>
 		<link rel="stylesheet" type="text/css" href="style.css">
 	</head>
 	

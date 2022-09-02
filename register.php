@@ -1,4 +1,5 @@
 <?php
+	// report & display any PHP or syntax errors on page, if any
 	error_reporting(-1);
 	ini_set('display_errors',1);
 ?>
@@ -7,7 +8,7 @@
 <html lang="en">
 	<head>
 		<meta charset="UTF-8">
-		<title>User Registration system using PHP and MySQL</title>
+		<title>User Registration</title>
 		<link rel="stylesheet" type="text/css" href="style.css">
 	</head>
 	
