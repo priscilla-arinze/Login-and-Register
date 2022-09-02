@@ -25,4 +25,8 @@ This is a simple registration and login form that uses a PDO extension (supporte
 
 <br>
 
+![Successful Login Page](imgs/success-index-page.png)
+
+<br>
+
 ![phpMyAdmin](imgs/phpmyadmin.png)
