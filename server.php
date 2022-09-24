@@ -87,7 +87,7 @@
 
 			// logs in newly-registered user
 			$_SESSION['username'] = $username;
-			$_SESSION['success'] = "You are now logged in";
+			$_SESSION['success'] = "You are now logged in"; // FLASH MESSAGE
 			header('Location: index.php'); // Raw HTTP header; redirects to index.php upon successful login
 			
 		}
